@@ -1,10 +1,10 @@
-kmines (4:15.08.0-1~) UNRELEASED; urgency=medium
+kmines (4:15.08.0-1) unstable; urgency=medium
 
   * New upstream release (15.04.0).
   * New upstream release (15.04.3).
   * New upstream release (15.08.0).
 
- -- Maximiliano Curia <maxy@debian.org>  Wed, 09 Sep 2015 22:02:52 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 09 Sep 2015 23:42:48 +0200
 
 kmines (4:15.08.0-0ubuntu1) wily; urgency=medium
 
