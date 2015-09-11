@@ -1,6 +1,6 @@
 kmines (4:15.08.0-2~) UNRELEASED; urgency=medium
 
-  * 
+  * Add phonon4qt5 build dep.
 
  -- Maximiliano Curia <maxy@debian.org>  Fri, 11 Sep 2015 20:25:58 +0200
 
