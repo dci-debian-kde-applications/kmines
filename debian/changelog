@@ -1,6 +1,7 @@
 kmines (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
+  * Merge with Debian
 
  -- Clive Johnston <clivejo@aol.com>  Sat, 06 Feb 2016 16:35:50 +0000
 
