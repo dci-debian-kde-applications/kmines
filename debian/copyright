@@ -5,29 +5,18 @@ Upstream-Contact: Albert Astals Cid <aacid@kde.org>
 Source: http://www.kde.org/download/
 
 Files: *
-Copyright: 1996-2005, Nicolas Hadacek <hadacek@kde.org>
-           2001, Mikhail Kourinny <mkourinny@yahoo.com>
-           2006-2007, Mauricio Piacentini <mauricio@tabuleiro.com>
+Copyright: 2010, Brian Croom <brian.s.croom@gmail.com>
            2007, Dmitry Suzdalev <dimsuz@gmail.com>
+           1989-1991, Free Software Foundation, Inc
+           2001, Mikhail Kourinny <mkourinny@yahoo.com>
+           1996-2004, Nicolas HADACEK <hadacek@kde.org>
+           2006-2007, Mauricio Piacentini <mauricio@tabuleiro.com>
 License: GPL-2+
 
 Files: doc/*
 Copyright: 2000, Nicolas Hadacek <hadacek@kde.org>
            2000, Mike McBride <mpmcbride7@yahoo.com>
 License: GFDL-1.2+
-
-Files: borderitem.cpp
-       borderitem.h
-       cellitem.cpp
-       cellitem.h
-       mainwindow.cpp
-       minefielditem.cpp
-       minefielditem.h
-       scene.cpp
-       scene.h
-Copyright: 2010, Brian Croom <brian.s.croom@gmail.com>
-           2007, Dmitry Suzdalev <dimsuz@gmail.com>
-License: GPL-2+
 
 Files: debian/*
 Copyright: 2007-2013, Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
