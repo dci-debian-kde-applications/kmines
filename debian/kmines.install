@@ -1,5 +1,3 @@
-../icons/kmines-16.xpm /usr/share/pixmaps
-../icons/kmines.xpm /usr/share/pixmaps
 etc/xdg/*
 usr/games/kmines
 usr/share/*
