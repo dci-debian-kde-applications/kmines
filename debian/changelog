@@ -1,10 +1,11 @@
-kmines (4:15.12.3-1~1.gbpc14b5a) UNRELEASED; urgency=medium
+kmines (4:16.04.0-1~1.gbpd78655) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @c14b5a6481c6cb6cf96ef7140deb55d66a448577 **
+  ** SNAPSHOT build @d78655a7a424cdfe89b49bb31943ec845ee856bb **
 
   * Bump Standards-Version to 3.9.8
+  * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 11:53:41 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 04:51:11 +0200
 
 kmines (4:15.12.0-1) experimental; urgency=medium
 
