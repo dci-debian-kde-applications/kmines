@@ -1,8 +1,11 @@
-kmines (4:15.12.2-1~) UNRELEASED; urgency=medium
+kmines (4:16.04.0-1~1.gbpd78655) UNRELEASED; urgency=medium
 
-  * New upstream release (15.12.2).
+  ** SNAPSHOT build @d78655a7a424cdfe89b49bb31943ec845ee856bb **
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 13 Feb 2016 09:55:36 +0100
+  * Bump Standards-Version to 3.9.8
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 04:51:11 +0200
 
 kmines (4:15.12.0-1) experimental; urgency=medium
 
