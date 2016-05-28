@@ -1,10 +1,6 @@
-kmines (4:16.04.1-1~1.gbpa1e560) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @a1e5601bc0a609f18d36b031de55e34d7ddb360c **
+kmines (4:16.04.1-1) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @d78655a7a424cdfe89b49bb31943ec845ee856bb **
-
   * Bump Standards-Version to 3.9.8
   * Update build-deps and deps with the info from cmake
 
@@ -13,9 +9,8 @@ kmines (4:16.04.1-1~1.gbpa1e560) UNRELEASED; urgency=medium
   * New upstream release (15.12.2).
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
-  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 10 May 2016 22:51:21 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 28 May 2016 19:36:12 +0200
 
 kmines (4:15.12.0-1) experimental; urgency=medium
 
