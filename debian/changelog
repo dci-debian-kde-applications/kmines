@@ -1,10 +1,8 @@
-kmines (4:16.04.2-1~1.gbp7e486c) UNRELEASED; urgency=medium
+kmines (4:16.04.2-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @7e486ccd21fdd2f756c4f2766a421d2a7e1f0337 **
+  * New upstream release.
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Wed, 15 Jun 2016 04:51:10 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 22 Jun 2016 21:53:07 +0200
 
 kmines (4:16.04.1-1) unstable; urgency=medium
 
