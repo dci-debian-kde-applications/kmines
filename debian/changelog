@@ -1,10 +1,8 @@
-kmines (4:16.08.0-1~1.gbp980d9f) UNRELEASED; urgency=medium
+kmines (4:16.08.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @980d9fc60c01b2d7121f15a29913611e5b66a47c **
+  * New upstream release (16.08.0)
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 22:51:11 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 19 Oct 2016 00:10:53 +0200
 
 kmines (4:16.04.2-1) unstable; urgency=medium
 
