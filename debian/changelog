@@ -1,10 +1,11 @@
-kmines (4:16.08.0-2~1.gbp593b42) UNRELEASED; urgency=medium
+kmines (4:16.08.3-1~1.gbp58609d) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @593b42c3f7273cf97ebb207439cf080c2f40d828 **
+  ** SNAPSHOT build @58609d656f896c2e6947a0062ff5a6013cb485cc **
 
   * Update build-deps and deps with the info from cmake
+  * UNRELEASED
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 19 Oct 2016 00:51:32 +0200
+ -- Automatic packaging <jenkins@gnuservers.com.ar>  Thu, 10 Nov 2016 22:51:11 +0100
 
 kmines (4:16.08.0-1) unstable; urgency=medium
 
