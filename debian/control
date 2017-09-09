@@ -42,6 +42,8 @@ Package: kmines
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Recommends: khelpcenter
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: minesweeper game
  KMines is a game where the player finds hidden mines without setting them off.
  .
