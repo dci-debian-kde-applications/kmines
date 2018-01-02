@@ -2,6 +2,7 @@ kmines (4:17.08.3-3) UNRELEASED; urgency=medium
 
   [ Pino Toscano ]
   * Remove the obsolete /etc/xdg/kmines.knsrc conffile. (Closes: #882396)
+  * Bump Standards-Version to 4.1.3, no changes required.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 02 Jan 2018 21:05:56 +0100
 
